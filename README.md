@@ -35,4 +35,4 @@ ssm_crud 项目的功能点：
 
 ![这里写图片描述](http://img.blog.csdn.net/20180126110146302?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd194X3NfaF9o/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-2.数据库在smm_crud.sql
+2.数据库在ssm_crud.sql
