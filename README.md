@@ -1,7 +1,7 @@
 # SSM_CRUD
 
 这里给大家介绍的是SSM_CRUD的demo项目整合，CRUD(create 创建、retrieve 查询、update 更新、delete 删除)也是SSM框架中最为常用的工程功能。
-对ssm入门整合还是挺有帮助的、希望大家点点小手可以多给几个star哦 ，谢谢啦）.具体工程的搭建可以查看我的博客：http://blog.csdn.net/w_x_s_h_h/article/details/79170012
+具体工程的搭建可参考博客：http://blog.csdn.net/w_x_s_h_h/article/details/79170012
 
 ssm_crud 项目的功能点：
 
