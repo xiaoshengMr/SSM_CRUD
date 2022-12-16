@@ -31,7 +31,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.3.7.RELEASE</version>
+			<version>5.2.20.RELEASE</version>
 		</dependency>
 
 		<!-- 返回json字符串的支持 -->
